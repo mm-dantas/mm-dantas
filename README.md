@@ -23,5 +23,5 @@
     <a href="https://instagram.com/ma.dantas_7" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DerekAmaral/DerekAmaral/output/github-contribution-grid-snake.svg">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mm-dantas/mm-dantas/output/github-contribution-grid-snake.svg">
 
